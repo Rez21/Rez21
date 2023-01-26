@@ -9,6 +9,7 @@
 - 🔭 I’m currently working on **Fundoo Notes**
 
 - 🌱 I’m currently learning **Angular**
+- <img src="https://giphy.com/stickers/devrock-angular-edr-angularjs-XEDIHHp3i8bVoEdxd7">
 
 - 📫 How to reach me **banprasad21@gmail.com**
 
