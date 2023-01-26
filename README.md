@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasad</h1>
-<img  src="https://miro.medium.com/v2/resize:fit:828/0*7Q3yvSIv_t0ioJ-Z.gif">
+
 <img src="https://www.aceinfoway.com/blog/wp-content/uploads/2020/12/migration-from-angularjs-to-angular.gif">
 <h3 align="center">Angular frontend developer from India</h3>
 
@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rez21&show_icons=true&locale=en" alt="rez21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rez21&" alt="rez21" /></p>
+<img align="center"  src="https://miro.medium.com/v2/resize:fit:828/0*7Q3yvSIv_t0ioJ-Z.gif">
