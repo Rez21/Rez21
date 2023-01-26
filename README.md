@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasad</h1>
 <img style="width = 100%" src="https://miro.medium.com/v2/resize:fit:828/0*7Q3yvSIv_t0ioJ-Z.gif">
 <h3 align="center">Angular frontend developer from India</h3>
-<img src="https://giphy.com/stickers/devrock-angular-edr-angularjs-XEDIHHp3i8bVoEdxd7">
+<iframe src="https://giphy.com/embed/XEDIHHp3i8bVoEdxd7" width="448" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-angular-edr-angularjs-XEDIHHp3i8bVoEdxd7">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rez21&label=Profile%20views&color=0e75b6&style=flat" alt="rez21" /> </p>
 
